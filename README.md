@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/bloodmonk7/DC-404NotFound">
+    <a href="https://github.com/bloodmonk7/404page/">
       Solution
     </a>
     <span> | </span>
